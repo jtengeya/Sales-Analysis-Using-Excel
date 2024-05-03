@@ -1,5 +1,6 @@
 # Sales Analysis Data Overview
-This analysis provides insights into commercial vehicle sales and pricing trends. Key insights includeed branch performance, sales trends, customer analysis, and pricing dynamics.
+This analysis provides insights into commercial vehicle sales and pricing trends.
+Key insights included branch performance, sales trends, customer analysis, and pricing dynamics.
 The columns included, Chassis No, Engine No, Model, Branch, Invoice Date, Retail Price, Wholesale Price, Customer Name.
 The Chassis no and Engine no are all unique.
 
