@@ -13,3 +13,10 @@ Questions answered included the following:
 2. How were sales distributed by branch?
 3. How were the models performing by branch?
 4. Who were the customers contributing to the sales?
+## Recomendations
+- Explore the reasons behind the peaks in sales observed in April and November to identify seasonal trends or customer preferences.
+- Additional resources needs to be allocated or implemented to the targeted marketing campaigns in branches with lower sales volumes to stimulate  growth.
+- Given the high sales revenue and customer count for models like the FRR 90 TRUCK and NQR81, prioritize marketing efforts and product development initiatives for these models.
+- A customer relationship management system be implemented to track customer interactions and preferences, allowing for personalized communication and targeted offers.
+- Emphasize the value proposition of the products, highlighting features, quality, and performance to justify pricing and differentiate from competitors.
+
